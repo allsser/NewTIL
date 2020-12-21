@@ -1,3 +1,7 @@
+# Stack Program
+
+test
+
 # TITLE1
 
 #- 위의 TITLE1 처럼 크기를 크게 해줌
@@ -92,7 +96,9 @@ https://www.google.com 와 같이 URL을 입력하여 사용이 가능하다.
 ```
 
 [Stack](#stack-program)
-이동할 위치의 텍스트 부분을 작성할 때 영어는 반드시"소문자"만 가능하며 띄어쓰기는 -로 구분해야 한다.Stack Program
+이동할 위치의 텍스트 부분을 작성할 때 영어는 반드시"소문자"만 가능하며 띄어쓰기는 -로 구분해야 한다.
+
+
 
 [TITLE1](#title1)
 
