@@ -8,6 +8,7 @@
   * [WAS](#WAS)
 * HTML - FE
   * [HTML Tags](#html-tags)
+  * [HTML Layout 태그](#html-layout-태그)
 
 ------
 
@@ -138,4 +139,49 @@ WAS는 일종의 미들웨어로 웹 클라이언트(보통 웹 브라우저)의
 ----
 
 ### HTML Tags
+
+HTML 태그는 많은 종류를 가지고 있고 각각의 쓰임새에 대한 정확한 의미가 있다.
+
+'각각의 의미를 지닌다'는 것을 'Semantic'한 태그 혹은 'Semantic하다'라고 표현을 한다.
+
+
+
+**HTML tag의 종류**
+
+태그는 그 의미에서 맞춰서 사용해야 한다.
+
+* 링크
+* 이미지
+* 목록
+* 제목
+
+
+
+---
+
+### HTML Layout 태그
+
+'레이아웃(Layout)' 이란 '배치'라는 뜻으로, HTML 태그로 감싸진 각 정보 요소를 화면상의 어느 위치에 어떻게 자리잡을지를 결정하는 것을 말한다.
+
+기본적으로 상단의 **<header>**, 하단의 **<footer>** 그리고 가운데의 본문 영역이 있다.
+
+
+
+**레이아웃을 위한 태그**
+
+레이아웃을 구성하는 태그도 역시 그 위미에 맞춰서 사용된다.
+
+* header
+* section
+* nav
+* footer
+* aside
+
+html태그는 레이아웃을 할 때도 그 의미에 맞는 것을 찾아 사용해야 검색도 더 잘되고, 가독성있는 코드를 만들 수 있게 된다.
+
+[HTML Layout 태그](https://www.google.com/search?q=html5+layout+tag&source=lmns&bih=959&biw=1079&hl=ko&sa=X&ved=2ahUKEwj8yZLf-e3tAhUGBJQKHXb2AWkQ_AUoAHoECAEQAA)
+
+
+
+---
 
