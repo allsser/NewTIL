@@ -9,6 +9,7 @@
 * HTML - FE
   * [HTML Tags](#html-tags)
   * [HTML Layout 태그](#html-layout-태그)
+  * [HTML 구조설계](#html-구조설계)
 
 ------
 
@@ -179,9 +180,16 @@ HTML 태그는 많은 종류를 가지고 있고 각각의 쓰임새에 대한 �
 
 html태그는 레이아웃을 할 때도 그 의미에 맞는 것을 찾아 사용해야 검색도 더 잘되고, 가독성있는 코드를 만들 수 있게 된다.
 
-[HTML Layout 태그](https://www.google.com/search?q=html5+layout+tag&source=lmns&bih=959&biw=1079&hl=ko&sa=X&ved=2ahUKEwj8yZLf-e3tAhUGBJQKHXb2AWkQ_AUoAHoECAEQAA)
+[HTML Layout 태그 링크](https://www.google.com/search?q=html5+layout+tag&source=lmns&bih=959&biw=1079&hl=ko&sa=X&ved=2ahUKEwj8yZLf-e3tAhUGBJQKHXb2AWkQ_AUoAHoECAEQAA)
 
 
 
 ---
 
+### HTML 구조설계
+
+웹페이지를 만드는 것은 문서의 구조를 잡는 것과 같다.
+
+제목, 단락 등이 있는 것과 같다.
+
+그런 관점으로 웹사이트의 문서구조를 만드는 것이 가장 먼저 할 일이다.
